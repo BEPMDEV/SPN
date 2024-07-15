@@ -3,7 +3,7 @@ import { redirect } from "next/navigation";
 
 export const metadata: Metadata = {
   title:
-    "Dasboard | SPN"
+    "Dashboard | SPN"
 };
 
 export default function Home() {
